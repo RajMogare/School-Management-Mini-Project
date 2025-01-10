@@ -48,7 +48,7 @@ A web application built using Next.js and MySQL for managing school details. The
 git clone https://github.com/RajMogare/School-Management-Mini-Project.git
 
 # Navigate to the project directory
-cd school-management-system
+cd School-Management-Mini-Project
 
 # Install dependencies
 npm install
