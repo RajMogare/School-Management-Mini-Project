@@ -10,6 +10,7 @@ A web application built using Next.js and MySQL for managing school details. The
 - **React Hook Form**: For form management and validation.
 - **React Hot Toast**: For displaying notifications.
 - **MySQL**: As the database for storing school details.
+- **Multer**: For handling and storing the images.
 
 ### Features
 - **Home Page**: A welcoming page with navigation options.
