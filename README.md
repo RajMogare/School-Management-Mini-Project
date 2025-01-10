@@ -12,6 +12,9 @@ A web application built using Next.js and MySQL for managing school details. The
 - **MySQL**: As the database for storing school details.
 - **Multer**: For handling and storing the images.
 
+### Video Demonstration of Project
+To watch video click on --> https://drive.google.com/file/d/1wNXFWJrb8Bl8e1PPcoQL9cFQVhaClLWy/view?usp=sharing  
+
 ### Features
 - **Home Page**: A welcoming page with navigation options.
 - **Add School Page**: A form to add school details such as name, address, city, state, contact, email, and image.
