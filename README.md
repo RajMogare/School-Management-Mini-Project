@@ -41,6 +41,9 @@ A web application built using Next.js and MySQL for managing school details. The
 ![image](https://github.com/user-attachments/assets/610a5bf8-5502-4708-8804-b1c14bf0fa21)
 
 
+#### Database entries
+![image](https://github.com/user-attachments/assets/a5a0160d-e442-40eb-8a22-792f52e66fca)
+
 
 ### Installation
 ```bash
